@@ -1,18 +1,13 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
-}
-html {
-  width: 100vw;
-  height: 100vh
 }
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
@@ -21,22 +16,22 @@ code {
   height: 100%;
 }
 .ant-layout {
-  background: #fff!important;
+  background: #fff !important;
 }
 .ant-anchor-ink {
   display: none;
 }
-.ant-anchor-link-active > .ant-anchor-link-title  {
-  color: #28A5E7;
+.ant-anchor-link-active > .ant-anchor-link-title {
+  color: #28a5e7;
 }
 a:hover {
-  color: #71bfff!important;
+  color: #71bfff !important;
 }
 .ant-anchor-link-title {
-  color: #28A5E7 !important;
+  color: #28a5e7 !important;
 }
 .ant-anchor-link {
-  padding: 7px 0!important;
+  padding: 7px 0 !important;
 }
 
 .ant-drawer-body .ant-anchor-link {
