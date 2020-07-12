@@ -3,9 +3,15 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./pages/App/App";
 import * as serviceWorker from "./serviceWorker";
+import { createBrowserHistory } from "history";
+import { BrowserRouter as Router } from "react-router-dom";
+
+const history = createBrowserHistory();
 
 ReactDOM.render(
-    <App />,
+  <Router history={history}>
+    <App />
+  </Router>,
   document.getElementById("root")
 );
 
