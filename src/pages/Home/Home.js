@@ -26,7 +26,6 @@ const HomeComponent = ({ className }) => {
           <Row className="content" id="news">
             <Title>News</Title>
             <Typography>
-              </Paragraph>
               <Text>06.07.2020</Text>
               <Paragraph>
                 We are discontinuing our support of the test network of the TON Blockchain. Our remaining validators will be switched off not later than 1.08.2020. Please save all relevant data and terminate your testing process. If you need to continue testing after this date, you can install your own testnet validators as explained <a href="FullNode-HOWTO.txt">here</a>, <a href="Validator-HOWTO.txt">here</a> and <a href="TestGrams-HOWTO.txt">here</a>.
@@ -45,7 +44,7 @@ const HomeComponent = ({ className }) => {
                   </Paragraph>
                   <Text>14.04.2020</Text>
                   <Paragraph>
-                  Changes described in the next item have been enabled at 16:12 GMT. All unupgraded full nodes, validators and clients stopped working. If you experience this, please upgrade.
+                    Changes described in the next item have been enabled at 16:12 GMT. All unupgraded full nodes, validators and clients stopped working. If you experience this, please upgrade.
                   </Paragraph>
                   <Text>10.04.2020</Text>
                   <Paragraph>
