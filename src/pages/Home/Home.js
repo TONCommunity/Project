@@ -41,7 +41,6 @@ const HomeComponent = ({ className }) => {
               {
                 isMore ?
                 <>
-                  </Paragraph>
                   <Text>14.04.2020</Text>
                   <Paragraph>
                     Changes described in the next item have been enabled at 16:12 GMT. All unupgraded full nodes, validators and clients stopped working. If you experience this, please upgrade.
