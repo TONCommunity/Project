@@ -102,7 +102,7 @@ const HomeComponent = ({ className }) => {
                 </Card>
               </Col>
               <Col xs={24} lg={8}>
-                <Card title={<a target="_blank" href="ton-lite-client-test1.config.json">Testnet Configuration</a>} className='resources-card'>
+                <Card title={<a target="_blank" href="ton-lite-client-test3.config.json">Testnet Configuration</a>} className='resources-card'>
                   Configuration file for the TON Blockchain Test Network Lite Client
                 </Card>
               </Col>
@@ -115,7 +115,7 @@ const HomeComponent = ({ className }) => {
               </Col>
               <Col xs={24} lg={8}>
                 <Card title={<a target="_blank" href="ton-global-lite-client.config.json">Combination</a>} className='resources-card'>
-                  Combination of<a target="_blank" rel="noopener noreferrer" href="ton-global.config.json"> ton-global.config.json</a> and <a target="_blank" href="ton-lite-client-test1.config.json">ton-lite-client-test1.config.json</a>, useful for Ton Sites and other TON Services
+                  Combination of<a target="_blank" rel="noopener noreferrer" href="ton-global.config.json"> ton-global.config.json</a> and <a target="_blank" href="ton-lite-client-test3.config.json">ton-lite-client-test3.config.json</a>, useful for Ton Sites and other TON Services
                 </Card>
               </Col>
               <Col xs={24} lg={8}>
