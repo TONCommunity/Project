@@ -15,7 +15,7 @@ const FaucetComponent = ({ className }) => {
 
   const handleClick = () => {
     try {
-      axios.post(`https://118.190.39.95:53780/${value}`).then((res) => {
+      axios.post(`https://toncommunity.org/address/${value}`).then((res) => {
         const result = res.data;
         const { state, message } = result;
         if (state === "Failed") {
