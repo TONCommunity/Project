@@ -1,0 +1,22 @@
+{
+    "liteservers": [
+        {
+            "ip":1992173407,
+            "id": {
+                "@type": "pub.ed25519",
+                "key": "qaHEsnyxUqld4t1ez94ECSvVdbZ8FBnXcOd2OJoAn9U="
+            },
+            "port": "53762"
+        }
+    ],
+    "validator": {
+        "@type": "validator.config.global",
+        "zero_state": {
+            "workchain": -1,
+            "shard": -9223372036854775808,
+            "seqno": 0,
+            "root_hash": "sKOoLuTF+1HU/eJ4zORsR9NehOrpInbn4j5XdpXwP5M=",
+            "file_hash": "9P0TuVjDyDA8od6t5oJFGNx0fl7aaaRsVeVt1Nu3cc4="
+        }
+    }
+}
