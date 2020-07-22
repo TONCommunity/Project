@@ -30,17 +30,21 @@ const HomeComponent = ({ className }) => {
               <Paragraph>
                 We are discontinuing our support of the test network of the TON Blockchain. Our remaining validators will be switched off not later than 1.08.2020. Please save all relevant data and terminate your testing process. If you need to continue testing after this date, you can install your own testnet validators as explained <a href="FullNode-HOWTO.txt">here</a>, <a href="Validator-HOWTO.txt">here</a> and <a href="TestGrams-HOWTO.txt">here</a>.
               </Paragraph>
-              <Text>24.05.2020</Text>
+              <Text>29.05.2020</Text><Text strong>Community</Text>
               <Paragraph>
-                The original TON development team is discontinuing its active involvement with the TON project due to reasons <a target="_blank" rel="noopener noreferrer" href="https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12">explained here</a>. The efforts of the team have been redirected to other projects. Some of the internal development branches that have been in active development and testing may get integrated into the main branch. Some minor bugfixes and Github issue answers may occasionally appear if any of the members of the original team have the spare time and inclination to contribute to the community's efforts. The principal development of the TON code is transferred to the free source community.
-              </Paragraph>
-              <Text>24.05.2020</Text>
-              <Paragraph>
-                Integrated some almost-finished components of TON Storage, TON Payments and CPS Fift from testing branches into the main branch.
+                TON Community announcements restart TON.
               </Paragraph>
               {
                 isMore ?
                 <>
+                 <Text>24.05.2020</Text>
+                 <Paragraph>
+                    The original TON development team is discontinuing its active involvement with the TON project due to reasons <a target="_blank" rel="noopener noreferrer" href="https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12">explained here</a>. The efforts of the team have been redirected to other projects. Some of the internal development branches that have been in active development and testing may get integrated into the main branch. Some minor bugfixes and Github issue answers may occasionally appear if any of the members of the original team have the spare time and inclination to contribute to the community's efforts. The principal development of the TON code is transferred to the free source community.
+                 </Paragraph>
+                 <Text>24.05.2020</Text>
+                 <Paragraph>
+                    Integrated some almost-finished components of TON Storage, TON Payments and CPS Fift from testing branches into the main branch.
+                  </Paragraph>
                   <Text>14.04.2020</Text>
                   <Paragraph>
                     Changes described in the next item have been enabled at 16:12 GMT. All unupgraded full nodes, validators and clients stopped working. If you experience this, please upgrade.
