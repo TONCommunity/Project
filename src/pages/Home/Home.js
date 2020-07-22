@@ -30,9 +30,9 @@ const HomeComponent = ({ className }) => {
               <Paragraph>
                 We are discontinuing our support of the test network of the TON Blockchain. Our remaining validators will be switched off not later than 1.08.2020. Please save all relevant data and terminate your testing process. If you need to continue testing after this date, you can install your own testnet validators as explained <a href="FullNode-HOWTO.txt">here</a>, <a href="Validator-HOWTO.txt">here</a> and <a href="TestGrams-HOWTO.txt">here</a>.
               </Paragraph>
-              <Text>29.05.2020</Text><Text strong>Community</Text>
+              <Text>29.05.2020</Text> <Text strong> Community</Text>
               <Paragraph>
-                TON Community announcements restart TON.
+                TON Community <a href="FullNode-HOWTO.txt">announcements restart TON</a>.
               </Paragraph>
               {
                 isMore ?
@@ -84,6 +84,10 @@ const HomeComponent = ({ className }) => {
                   <Text>15.11.2019</Text>
                   <Paragraph>
                     Test network has been relaunched. All previously created accounts and smart contracts no longer exist.
+                  </Paragraph>
+                    <Text>06.06.2019 9</Text>
+                  <Paragraph>
+                    Founding TONBUS that is part of TONCommunity.org
                   </Paragraph>
                   <Text onClick={()=>setIsMore(false)} className='more'>↑ Up</Text>
                 </> : <Text onClick={()=>setIsMore(true)} className='more'>More...</Text>
