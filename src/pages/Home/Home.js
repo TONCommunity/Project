@@ -100,42 +100,52 @@ const HomeComponent = ({ className }) => {
             <Title>Resources</Title>
             <Row justify="space-between" gutter={[16, 16]}>
               <Col xs={24} lg={8}>
-                <Card title={<a target="_blank" rel="noopener noreferrer" href="https://tengram.com/">Blockchain explorer</a>} className='resources-card'>
-                  Simple blockchain explorer for the TON Blockchain Test Network (testnet)
+                <Card title={<a target="_blank" rel="noopener noreferrer" href="https://wallet.ton.org/">Blockchain Wallet</a>} className='resources-card'>
+                  Test Gram Wallet Set up your own Gram Wallet on the TON Testnet. Available for macOS Linux Windows Android and <a target="_blank" rel="noopener noreferrer" href="https://testflight.apple.com/join/sYg7ibyW">iOS here</a>.
                 </Card>
               </Col>
               <Col xs={24} lg={8}>
-                <Card title={<a target="_blank" rel="noopener noreferrer" href="https://github.com/ton-blockchain/ton">GitHub</a>} className='resources-card'>
-                A GitHub repository with the complete source of the test version of TON Blockchain Software, including Light Client, Full Node and Validator for TON Blockchain.
+                <Card title={<a target="_blank" rel="noopener noreferrer" href="https://t.me/gram50bot">Blockchain explorer</a>} className='resources-card'>
+                  This is Telegram bot, simple TON wallet + simple explorer for the TONCommunity.org Testnet3.
                 </Card>
               </Col>
               <Col xs={24} lg={8}>
-                <Card title={<a target="_blank" href="ton-lite-client-test3.config.json">Testnet Configuration</a>} className='resources-card'>
-                  Configuration file for the TON Blockchain Test Network Lite Client
+                <Card title={<a href="/faucet">Faucet</a>} className='resources-card'>
+                  TONCommunity.org Testnet3 Faucet
                 </Card>
               </Col>
             </Row>
             <Row justify="space-between" gutter={[16, 16]}>
               <Col xs={24} lg={8}>
-                <Card title={<a target="_blank" href="ton-global.config.json">Global configuration</a>} className='resources-card'>
-                  Global configuration for the TON Blockchain Test Network, required by Full Nodes
+                <Card title={<a target="_blank" rel="noopener noreferrer" href="https://github.com/ton-blockchain/ton">GitHub - TON</a>} className='resources-card'>
+                A GitHub repository with the complete source of the test version of TON Blockchain Software, including Light Client, Full Node and Validator for TON Blockchain.
                 </Card>
               </Col>
               <Col xs={24} lg={8}>
-                <Card title={<a target="_blank" href="ton-global-lite-client.config.json">Combination</a>} className='resources-card'>
-                  Combination of<a target="_blank" rel="noopener noreferrer" href="ton-global.config.json"> ton-global.config.json</a> and <a target="_blank" href="ton-lite-client-test3.config.json">ton-lite-client-test3.config.json</a>, useful for Ton Sites and other TON Services
+                <Card title={<a target="_blank" rel="noopener noreferrer" href="https://github.com/toncommunity">GitHub - TON Community</a>} className='resources-card'>
+                About TONCommunity.org Project.
+                </Card>
+              </Col>
+              <Col xs={24} lg={8}>
+                <Card title={<a target="_blank" href="ton-lite-client-test3.config.json">Testnet Configuration</a>} className='resources-card'>
+                  Configuration file for the TONCommunity.org Testnet3 Lite Client
+                </Card>
+              </Col>
+            </Row>
+            <Row justify="space-between" gutter={[16, 16]}>
+              <Col xs={24} lg={8}>
+                <Card title={<a target="_blank" href="toncommunity-global.config.json">Global configuration</a>} className='resources-card'>
+                  Global configuration for the TONCommunity.org Testnet3, required by Full Nodes
+                </Card>
+              </Col>
+              <Col xs={24} lg={8}>
+                <Card title={<a target="_blank" href="toncommunity-global.config.json">Combination</a>} className='resources-card'>
+                  Combination of<a target="_blank" rel="noopener noreferrer" href="toncommunity-global.config.json"> toncommunity-global.config.json</a> and <a target="_blank" href="ton-lite-client-test3.config.json">toncommunity-lite-client.config.json</a>, useful for Ton Sites and other TON Services
                 </Card>
               </Col>
               <Col xs={24} lg={8}>
                 <Card title={<a href="projects.html">TON-based projects</a>} className='resources-card'>
                   A list of projects on TON submitted for the <a target="_blank" rel="noopener noreferrer" href="https://contest.com/blockchain-2-bonus">Telegram blockchain competition</a>.
-                </Card>
-              </Col>
-            </Row>
-            <Row justify="space-between" gutter={[16, 16]}>
-              <Col xs={24} lg={8}>
-                <Card title={<a href="/faucet">Faucet</a>} className='resources-card'>
-                  {'<TON Community Blokchain>'} test network Faucet
                 </Card>
               </Col>
             </Row>
