@@ -18,7 +18,7 @@ const HomeComponent = ({ className }) => {
           <img src={bannerIcon} alt="bannerIcon" className="bannerIcon" />
             <div className="title-wrapper-div">
               <p className="title">TON Community Blockchain</p>
-              <p className="title">Test Network Launch</p>
+              <p className="title">Testnet3</p>
             </div>
           </div>
         </Row>
@@ -106,7 +106,7 @@ const HomeComponent = ({ className }) => {
               </Col>
               <Col xs={24} lg={8}>
                 <Card title={<a target="_blank" rel="noopener noreferrer" href="https://t.me/gram50bot">Blockchain explorer</a>} className='resources-card'>
-                  This is Telegram bot, simple TON wallet + simple explorer for the TONCommunity.org Testnet3.
+                  This is a <a target="_blank" rel="noopener noreferrer" href="https://t.me/gram50bot">Telegram bot</a>, simple TON wallet + simple explorer for the TONCommunity.org Testnet3.
                 </Card>
               </Col>
               <Col xs={24} lg={8}>
