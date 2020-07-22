@@ -145,7 +145,7 @@ const HomeComponent = ({ className }) => {
               </Col>
               <Col xs={24} lg={8}>
                 <Card title={<a href="projects.html">TON-based projects</a>} className='resources-card'>
-                  A list of projects on TON submitted for the <a target="_blank" rel="noopener noreferrer" href="https://contest.com/blockchain-2-bonus">Telegram blockchain competition</a>.
+                  About TON-based project and a list of projects on TON submitted for the <a target="_blank" rel="noopener noreferrer" href="https://contest.com/blockchain-2-bonus">Telegram blockchain competition</a>.
                 </Card>
               </Col>
             </Row>
