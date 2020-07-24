@@ -8,7 +8,6 @@
 
 Community Blockchain, wallet applications, base-TON project and other package index.  The source code for the TON Blockchain which operates a node on the TON Community Network is kept in here.
 
-
 <!-- row 1 - links & status -->
 
 [![Website toncommunity](https://img.shields.io/website-up-down-green-red/https/toncommunity.org.svg)](https://www.toncommunity.org)
@@ -18,67 +17,87 @@ Community Blockchain, wallet applications, base-TON project and other package in
 [![Telegram Group CN](https://img.shields.io/badge/TONCommunity-CN__Group-blue)](https://t.me/ton_cn)
 
 
-## 🌐<a id="mission"></a>TONCommunity.org's Mission - Bring Crypto Into Mainstream
+Contents:
 
-[Matches will down](https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12), but tinder left.
+<!-- TOC -->
 
-TONCommunity.org from TON Blockchain old supporter, we was TON investors, and create frist TON blockchain uesr-friendly wallet in Q1.2019. We all know the magic of TON technology. 
+- [TONCommunity.org's Mission - Bring Crypto Into Mainstream](#mission)
+- [TON Community Worldview](#worldview)
+- [TON Blockchain（Original Project）](#original)
+- [Roadmap](#roadmap)
+- [TONCommunity.org Testnet3](#testnet)
+- [Token Distirution](#token)
+- [Ask Questions, Find Answers, Get in Touch](#ask)
+- [Marketing](#marketing)
+  <!-- /TOC -->
 
-Must declare, all people come from the community, it has nothing to do with Telegram Official. We long telegram. And we think social network + crypto is the key to bringing crypto into mainstream.
+## ✅ <a id="mission"></a>TONCommunity.org's Mission - Bring Crypto Into Mainstream
 
-## 🌐 <a id="worldview"></a>TON Community Worldview
+TONCommunity.org from TON Blockchain old supporter. But must declare, all people come from the community, it has nothing to do with Telegram Official. We long telegram. And we think social network + crypto is the key to bringing crypto into mainstream.
+
+## 💻 <a id="worldview"></a>TON Community Worldview
 1,We Long Crypto and Blockchain.
 2,We Trust Socal Network Will bring crypto into mainstream.
 3,Globalization will not stop(WE ARE CYBER KID), it will arrive in another way. We participate throughout.
 4,Privacy, permissionless, hostingless, unstoppable. It will be building step by step.
 
-## 💎 <a id="original"></a>TON Blockchain（Original Project）
-- TON Whitepaper – a general description of TON Network and TON Blockchain
-- TVM - TON Virtual Machine description
-- TON Blockchain description (may include outdated information)
-- Fiftbase - A brief introduction to the Fift programming language
-- 🔗Catchain – Description of BFT Consensus protocol employed by TON Blockchain while creating new blocks
-- Smart Contracts Guidelines - and best practices related to implementation of TON Blockchain smart contracts
+## 🗝 <a id="howto"></a>How to test & join TONCommunity.org Testnet3
+### You have 5 user-friendly way to test Blockchain Network. 
+1,Download Wallet App and create your wallet.
+- :rocket:[iOS](https://testflight.apple.com/join/sYg7ibyW)
+- :rocket:[Winodws](https://ton.org/apps/wsetup.0.9.8.exe)
+- :rocket:[macOS](https://ton.org/apps/wsetup.0.9.8.dmg)
+- :rocket:[Android](https://ton.org/apps/wallet.apk)
 
-## 💎 <a id="roadmap"></a>TONCommunity.org Roadmap
+2,Click server config, choice network, and COPY URL, Enter Blockchain ID: testnet3
+```
+https://toncommunity.org/ton-lite-client-test3.config.json
+```
 
+3,2 way get Testnet coins.
+- :gift:[TONCommunity.org Testnet3 Feacet](https://toncommunity.org/faucet)
+- :robot:[Telegram Bot,](https://t.me/gram50bot) get new wallet + grams and send some grams to your wallet.
+
+
+### You have 3 dev way to join Blockchain Network. 
+Configuration
+- [Global configuration](https://github.com/TONCommunity/Project/blob/master/public/toncommunity-global.config.json)
+- [Testnet3 Configuration](https://github.com/TONCommunity/Project/blob/master/public/toncommunity-testnet3-config.json)
+
+Check subdirectory and choice your way.
+- [Lite-client howto](https://github.com/TONCommunity/Project/blob/master/public/HOWTO.txt)
+- [Fullnode howto](https://github.com/TONCommunity/Project/blob/master/public/FullNode-HOWTO.txt)
+- [Validator howto](https://github.com/TONCommunity/Project/blob/master/public/Validator-HOWTO.txt) 
+
+## ❤ <a id="original"></a>TON Blockchain（Original Project）
+- [TON Whitepaper](https://github.com/TONCommunity/Project/blob/master/public/ton.pdf) – a general description of TON Network and TON Blockchain
+- [TVM](https://github.com/TONCommunity/Project/blob/master/public/tvm.pdf) - TON Virtual Machine description
+- [TON Blockchain description (may include outdated information)](https://github.com/TONCommunity/Project/blob/master/public/tblkch.pdf)
+- [Fiftbase](https://github.com/TONCommunity/Project/blob/master/public/fiftbase.pdf) - A brief introduction to the Fift programming language
+- [🔗Catchain ](https://github.com/TONCommunity/Project/blob/master/public/catchain.pdf)– Description of BFT Consensus protocol employed by TON Blockchain while creating new blocks
+- [Smart Contracts Guidelines](https://github.com/TONCommunity/Project/blob/master/public/smc-guidelines.txt) - and best practices related to implementation of TON Blockchain smart contracts
+
+## 🔨 <a id="roadmap"></a>Roadmap
 
 ## 🌐 <a id="testnet"></a>TONCommunity.org Testnet3
 This test network is the 2th version net, but we call it testnet3 for tinder. You can check www.toncommunity.org or check http://t.me/gram50bot test ton magtic tech and get some free mainnet coins now.
-
-## 🗝 <a id="howto"></a>How to test & join Testnet3
-User friendly Way
-- [iOS](https://testflight.apple.com/join/sYg7ibyW)
-- [Winodws](https://ton.org/apps/wsetup.0.9.8.exe)
-- [macOS](https://ton.org/apps/wsetup.0.9.8.dmg)
-- [Android](https://ton.org/apps/wallet.apk)
-
-Developer Way
-- [Testnet3 Configuration](https://toncommunity.org/ton-lite-client-test3.config.json)
-- [Global configuration](https://toncommunity.org/toncommunity-global.config.json)
-
-Choice your way
-- [Lite-client howto](https://toncommunity.org/README.txt)
-- [Fullnode howto](https://toncommunity.org/FullNode-HOWTO.txt)
-- [Validator howto](https://toncommunity.org/Validator-HOWTO.txt) 
 
 ## 🏘 <a id="projects"></a>TON-based Projects
 About TON-based project and a list of projects on TON submitted for the Telegram blockchain competition.
 We support [TON-base's blockchain](https://toncommunity.org/projects.html)  project. 
 
-## 💎 <a id="token"></a>Token Distirution
-
+## :gem: <a id="token"></a>Token Distirution
 6% - Investor reserved
 
 
 ## ✈ <a id="marketing"></a>Marketing
-Mainnet Airdrop Round A(Available)
+- 🎈Mainnet Airdrop Round A(Available)
 
-## Ask Questions, Find Answers, Get in Touch
-- About Airdrop Round A
-- Telegram Channel(EN)
-- Telegram Channel(CN)
-- Chat Group(EN)
-- Testnet Touch Bot
-- Mainnet Airdrop Bot
-- Twitter
+## 🔈 <a id="ask"></a>Ask Questions, Find Answers, Get in Touch
+- 🎈About Airdrop Round A
+- 🚀Telegram Channel(EN)
+- 🚀Telegram Channel(CN)
+- 🌕Chat Group(EN)
+- :robot:Testnet Touch Bot
+- :robot:Mainnet Airdrop Bot
+- 📌Twitter
