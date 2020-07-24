@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://toncommunity.org//">
+  <a href="https://toncommunity.org/">
     <img src="https://toncommunity.org/static/media/logo.d88b15dd.svg" alt="TON Community logo" title="Go to toncommunity.org" width="800" style="border:none;"/>
   </a>
 </p>
 
-**TON Community Project - Official info for core projects **
+**TON Community Project - Official info for core projects**
 
 Community Blockchain, wallet applications, base-TON project and other package index.  The source code for the TON Blockchain which operates a node on the TON Community Network is kept in here.
 
