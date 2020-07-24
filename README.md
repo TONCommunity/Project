@@ -1,68 +1,84 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="https://toncommunity.org//">
+    <img src="https://toncommunity.org/static/media/logo.d88b15dd.svg" alt="TON Community logo" title="Go to toncommunity.org" width="800" style="border:none;"/>
+  </a>
+</p>
 
-## Available Scripts
+**TON Community Project - Official info for core projects **
 
-In the project directory, you can run:
+Community Blockchain, wallet applications, base-TON project and other package index.  The source code for the TON Blockchain which operates a node on the TON Community Network is kept in here.
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<!-- row 1 - links & status -->
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+[![Website toncommunity](https://img.shields.io/website-up-down-green-red/https/toncommunity.org.svg)](https://www.toncommunity.org)
+[![Twitter](https://img.shields.io/twitter/follow/toncommunity?style=social)](https://twitter.com/toncommunity)
+[![Telegram Channel](https://img.shields.io/badge/TONCommunity-Channel-blue)](https://t.me/ton_news)
+[![Telegram Group EN](https://img.shields.io/badge/TONCommunity-EN__Group-blue)](https://t.me/ton_en)
+[![Telegram Group CN](https://img.shields.io/badge/TONCommunity-CN__Group-blue)](https://t.me/ton_cn)
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🌐<a id="mission"></a>TONCommunity.org's Mission - Bring Crypto Into Mainstream
 
-### `yarn build`
+[Matches will down](https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12), but tinder left.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+TONCommunity.org from TON Blockchain old supporter, we was TON investors, and create frist TON blockchain uesr-friendly wallet in Q1.2019. We all know the magic of TON technology. 
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Must declare, all people come from the community, it has nothing to do with Telegram Official. We long telegram. And we think social network + crypto is the key to bringing crypto into mainstream.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🌐 <a id="worldview"></a>TON Community Worldview
+1,We Long Crypto and Blockchain.
+2,We Trust Socal Network Will bring crypto into mainstream.
+3,Globalization will not stop(WE ARE CYBER KID), it will arrive in another way. We participate throughout.
+4,Privacy, permissionless, hostingless, unstoppable. It will be building step by step.
 
-### `yarn eject`
+## 💎 <a id="original"></a>TON Blockchain（Original Project）
+- TON Whitepaper – a general description of TON Network and TON Blockchain
+- TVM - TON Virtual Machine description
+- TON Blockchain description (may include outdated information)
+- Fiftbase - A brief introduction to the Fift programming language
+- 🔗Catchain – Description of BFT Consensus protocol employed by TON Blockchain while creating new blocks
+- Smart Contracts Guidelines - and best practices related to implementation of TON Blockchain smart contracts
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 💎 <a id="roadmap"></a>TONCommunity.org Roadmap
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🌐 <a id="testnet"></a>TONCommunity.org Testnet3
+This test network is the 2th version net, but we call it testnet3 for tinder. You can check www.toncommunity.org or check http://t.me/gram50bot test ton magtic tech and get some free mainnet coins now.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 🗝 <a id="howto"></a>How to test & join Testnet3
+User friendly Way
+- [iOS](https://testflight.apple.com/join/sYg7ibyW)
+- [Winodws](https://ton.org/apps/wsetup.0.9.8.exe)
+- [macOS](https://ton.org/apps/wsetup.0.9.8.dmg)
+- [Android](https://ton.org/apps/wallet.apk)
 
-## Learn More
+Developer Way
+- [Testnet3 Configuration](https://toncommunity.org/ton-lite-client-test3.config.json)
+- [Global configuration](https://toncommunity.org/toncommunity-global.config.json)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Choice your way
+- [Lite-client howto](https://toncommunity.org/README.txt)
+- [Fullnode howto](https://toncommunity.org/FullNode-HOWTO.txt)
+- [Validator howto](https://toncommunity.org/Validator-HOWTO.txt) 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🏘 <a id="projects"></a>TON-based Projects
+About TON-based project and a list of projects on TON submitted for the Telegram blockchain competition.
+We support [TON-base's blockchain](https://toncommunity.org/projects.html)  project. 
 
-### Code Splitting
+## 💎 <a id="token"></a>Token Distirution
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+6% - Investor reserved
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## ✈ <a id="marketing"></a>Marketing
+Mainnet Airdrop Round A(Available)
 
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Ask Questions, Find Answers, Get in Touch
+- About Airdrop Round A
+- Telegram Channel(EN)
+- Telegram Channel(CN)
+- Chat Group(EN)
+- Testnet Touch Bot
+- Mainnet Airdrop Bot
+- Twitter
