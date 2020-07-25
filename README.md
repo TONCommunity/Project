@@ -41,6 +41,12 @@ TONCommunity.org from TON Blockchain old supporter. But must declare, all people
 3,Globalization will not stop(WE ARE CYBER KID), it will arrive in another way. We participate throughout.
 4,Privacy, permissionless, hostingless, unstoppable. It will be building step by step.
 
+<p align="center">
+  <a href="https://imgur.com/qm485xP">
+    <img src="https://imgur.com/qm485xP" alt="user-friendly" title="user-friendly" width="600" style="border:none;"/>
+  </a>
+</p>
+
 ## 🗝 <a id="howto"></a>How to test & join TONCommunity.org Testnet3
 ### You have 5 user-friendly way to test Blockchain Network. 
 1,Download Wallet App and create your wallet.
@@ -58,6 +64,11 @@ https://toncommunity.org/ton-lite-client-test3.config.json
 - :gift:[TONCommunity.org Testnet3 Feacet](https://toncommunity.org/faucet)
 - :robot:[Telegram Bot,](https://t.me/gram50bot) get new wallet + grams and send some grams to your wallet.
 
+<p align="center">
+  <a href="https://imgur.com/SeHEKOc">
+    <img src="https://imgur.com/SeHEKOc" alt="dev" title="dev" width="600" style="border:none;"/>
+  </a>
+</p>
 
 ### You have 3 dev way to join Blockchain Network. 
 Configuration
@@ -89,15 +100,14 @@ We support [TON-base's blockchain](https://toncommunity.org/projects.html)  proj
 ## :gem: <a id="token"></a>Token Distirution
 6% - Investor reserved
 
-
 ## ✈ <a id="marketing"></a>Marketing
 - 🎈Mainnet Airdrop Round A(Available)
 
 ## 🔈 <a id="ask"></a>Ask Questions, Find Answers, Get in Touch
 - 🎈About Airdrop Round A
-- 🚀Telegram Channel(EN)
-- 🚀Telegram Channel(CN)
-- 🌕Chat Group(EN)
-- :robot:Testnet Touch Bot
-- :robot:Mainnet Airdrop Bot
-- 📌Twitter
+- 🚀[Telegram Channel(EN)](https://t.me/ton_en)
+- 🚀[Telegram Channel(CN)](https://t.me/ton_cn)
+- 🌕[Chat Group(EN)](https://t.me/ton_news)
+- :robot:[Testnet Touch Bot](https://t.me/gram50bot) 
+- :robot:[Mainnet Airdrop Bot](https://t.me/toncommunity_bot)
+- 📌[Twitter](https://twitter.com/TONCommunity)
