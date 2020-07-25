@@ -42,7 +42,7 @@ TONCommunity.org from TON Blockchain old supporter. But must declare, all people
 4,Privacy, permissionless, hostingless, unstoppable. It will be building step by step.
 
 <p align="center">
-  <a href="https://imgur.com/qm485xP">
+  <a href="https://toncommunity.org/">
     <img src="https://imgur.com/qm485xP" alt="user-friendly" title="user-friendly" width="600" style="border:none;"/>
   </a>
 </p>
@@ -65,7 +65,7 @@ https://toncommunity.org/ton-lite-client-test3.config.json
 - :robot:[Telegram Bot,](https://t.me/gram50bot) get new wallet + grams and send some grams to your wallet.
 
 <p align="center">
-  <a href="https://imgur.com/SeHEKOc">
+  <a href="https://toncommunity.org/">
     <img src="https://imgur.com/SeHEKOc" alt="dev" title="dev" width="600" style="border:none;"/>
   </a>
 </p>
