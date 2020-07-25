@@ -43,7 +43,7 @@ TONCommunity.org from TON Blockchain old supporter. But must declare, all people
 
 <p align="center">
   <a href="https://toncommunity.org/">
-    <img src="https://imgur.com/qm485xP" alt="user-friendly" title="user-friendly" width="600" style="border:none;"/>
+    <img src="https://toncommunity.org/test2.png" alt="user-friendly" title="user-friendly" width="600" style="border:none;"/>
   </a>
 </p>
 
@@ -66,7 +66,7 @@ https://toncommunity.org/ton-lite-client-test3.config.json
 
 <p align="center">
   <a href="https://toncommunity.org/">
-    <img src="https://imgur.com/SeHEKOc" alt="dev" title="dev" width="600" style="border:none;"/>
+    <img src="https://toncommunity.org/test.png" alt="dev" title="dev" width="600" style="border:none;"/>
   </a>
 </p>
 
