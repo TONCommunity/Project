@@ -36,10 +36,24 @@ Contents:
 TONCommunity.org from TON Blockchain old supporter. But must declare, all people come from the community, it has nothing to do with Telegram Official. We long telegram. And we think social network + crypto is the key to bringing crypto into mainstream.
 
 ## 💻 <a id="worldview"></a>TON Community Worldview
-1,We Long Crypto and Blockchain.
-2,We Trust Socal Network Will bring crypto into mainstream.
-3,Globalization will not stop(WE ARE CYBER KID), it will arrive in another way. We participate throughout.
-4,Privacy, permissionless, hostingless, unstoppable. It will be building step by step.
+- We Long Crypto and Blockchain. 
+- We Trust Socal Network Will bring crypto into mainstream. 
+- Globalization will not stop(WE ARE CYBER KID), it will arrive in another way. We participate throughout. 
+- Privacy, permissionless, hostingless, unstoppable. It will be building step by step. 
+ 
+## 🗝 <a id="howto"></a>How to test & join TONCommunity.org Testnet3
+### 5 user-friendly way: Use Blockchain Wallet
+1,Download Wallet App and create your wallet address:
+- :rocket:[iOS](https://testflight.apple.com/join/sYg7ibyW)
+- :rocket:[Winodws](https://ton.org/apps/wsetup.0.9.8.exe)
+- :rocket:[macOS](https://ton.org/apps/wsetup.0.9.8.dmg)
+- :rocket:[Android](https://ton.org/apps/wallet.apk)
+
+2,Change the Waller server config: choice Testnetwork and Config source - Url, copy URL:
+```
+https://toncommunity.org/ton-lite-client-test3.config.json
+```
+3,Change Blockchain ID: testnet3.
 
 <p align="center">
   <a href="https://toncommunity.org/">
@@ -47,22 +61,16 @@ TONCommunity.org from TON Blockchain old supporter. But must declare, all people
   </a>
 </p>
 
-## 🗝 <a id="howto"></a>How to test & join TONCommunity.org Testnet3
-### You have 5 user-friendly way to test Blockchain Network. 
-1,Download Wallet App and create your wallet.
-- :rocket:[iOS](https://testflight.apple.com/join/sYg7ibyW)
-- :rocket:[Winodws](https://ton.org/apps/wsetup.0.9.8.exe)
-- :rocket:[macOS](https://ton.org/apps/wsetup.0.9.8.dmg)
-- :rocket:[Android](https://ton.org/apps/wallet.apk)
+4,Confirm, re-start the wallet/enter the mnemonic phrase.
 
-2,Click server config, choice network, and COPY URL, Enter Blockchain ID: testnet3
-```
-https://toncommunity.org/ton-lite-client-test3.config.json
-```
+5,Connected the TONCommunity.org network successfully.
 
-3,2 way get Testnet coins.
+6,You have 3 way get Testnet coins. 
+Copy your wallet address and:
 - :gift:[TONCommunity.org Testnet3 Feacet](https://toncommunity.org/faucet)
 - :robot:[Telegram Bot,](https://t.me/gram50bot) get new wallet + grams and send some grams to your wallet.
+- Send your wallet address to Telegram Chat Group, 🐱anonymous will transfer test grams to you.
+- Have fun.
 
 <p align="center">
   <a href="https://toncommunity.org/">
