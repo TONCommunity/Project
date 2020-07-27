@@ -41,8 +41,14 @@ TONCommunity.org from TON Blockchain old supporter. But must declare, all people
 - Globalization will not stop(WE ARE CYBER KID), it will arrive in another way. We participate throughout. 
 - Privacy, permissionless, hostingless, unstoppable. It will be building step by step. 
  
+<p align="center">
+  <a href="https://toncommunity.org/">
+    <img src="https://toncommunity.org/fight.jpg" alt="user-friendly" title="fight" width="600" style="border:none;"/>
+  </a>
+</p>
+
 ## 🗝 <a id="howto"></a>How to test & join TONCommunity.org Testnet3
-### 5 user-friendly way: Use Blockchain Wallet
+### You have 5 user-friendly ways: 
 1,Download Wallet App and create your wallet address:
 - :rocket:[iOS](https://testflight.apple.com/join/sYg7ibyW)
 - :rocket:[Winodws](https://ton.org/apps/wsetup.0.9.8.exe)
@@ -65,7 +71,7 @@ https://toncommunity.org/ton-lite-client-test3.config.json
 
 5,Connected the TONCommunity.org network successfully.
 
-6,You have 3 way get Testnet coins. 
+6,You have 3 ways get Testnet coins. 
 Copy your wallet address and:
 - :gift:[TONCommunity.org Testnet3 Feacet](https://toncommunity.org/faucet)
 - :robot:[Telegram Bot,](https://t.me/gram50bot) get new wallet + grams and send some grams to your wallet.
