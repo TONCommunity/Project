@@ -59,13 +59,13 @@ TONCommunity.org from TON Blockchain old supporter. But must declare, all people
 ```
 https://toncommunity.org/ton-lite-client-test3.config.json
 ```
-3,Change Blockchain ID: testnet3.
-
 <p align="center">
   <a href="https://toncommunity.org/">
     <img src="https://toncommunity.org/test2.png" alt="user-friendly" title="user-friendly" width="600" style="border:none;"/>
   </a>
 </p>
+
+3,Change Blockchain ID: testnet3.
 
 4,Confirm, re-start the wallet/enter the mnemonic phrase.
 
