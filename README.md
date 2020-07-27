@@ -120,9 +120,9 @@ We support [TON-base's blockchain](https://toncommunity.org/projects.html)  proj
 
 ## 🔈 <a id="ask"></a>Ask Questions, Find Answers, Get in Touch
 - 🎈About Airdrop Round A
-- 🚀[Telegram Channel(EN)](https://t.me/ton_en)
-- 🚀[Telegram Channel(CN)](https://t.me/ton_cn)
-- 🌕[Chat Group(EN)](https://t.me/ton_news)
-- :robot:[Testnet Touch Bot](https://t.me/gram50bot) 
+- 🚀[Telegram Channel](https://t.me/ton_news)
+- 🌕[Chat Group(EN)](https://t.me/ton_en)
+- 🌕[Chat Group(CN)](https://t.me/ton_cn)
+- :robot:[Testnet Wallet Bot](https://t.me/gram50bot) 
 - :robot:[Mainnet Airdrop Bot](https://t.me/toncommunity_bot)
 - 📌[Twitter](https://twitter.com/TONCommunity)
