@@ -26,6 +26,10 @@ const HomeComponent = ({ className }) => {
           <Row className="content" id="news">
             <Title>News</Title>
             <Typography>
+              <Text>28.07.2020</Text> <Text strong> Community</Text>
+              <Paragraph>
+                TONCommunity.org Testnet Launch and Welcome TON Blockchain Testnet2 Validator Join.Check <a target="_blank" rel="noopener noreferrer" href="https://github.com/TONCommunity/Project">here</a>.
+              </Paragraph>
               <Text>06.07.2020</Text>
               <Paragraph>
                 We are discontinuing our support of the test network of the TON Blockchain. Our remaining validators will be switched off not later than 1.08.2020. Please save all relevant data and terminate your testing process. If you need to continue testing after this date, you can install your own testnet validators as explained <a href="FullNode-HOWTO.txt">here</a>, <a href="Validator-HOWTO.txt">here</a> and <a href="TestGrams-HOWTO.txt">here</a>.
