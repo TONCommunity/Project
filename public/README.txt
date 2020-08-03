@@ -30,16 +30,16 @@ cmake --build . --target func
 
 4) Download the newest configuration file from https://test.ton.org/ton-lite-client-test1.config.json :
 
-wget https://test.ton.org/ton-lite-client-test1.config.json
+wget https://toncommunity.org/ton-lite-client-test3.config.json
 
 5) Run the Lite Client:
 
-./lite-client/lite-client -C ton-lite-client-test1.config.json
+./lite-client/lite-client -C ton-lite-client-test3.config.json
 
 If everything was installed successfully, the Lite Client will connect to a special server (a full node for the TON Blockchain Test Network #1) and will send some queries to the server.
 If you indicate a writeable "database" directory as an extra argument to the client, it will download and save the block and the state corresponding to the newest masterchain block:
 
-./lite-client/lite-client -C ton-lite-client-test1.config.json -D ~/ton-db-dir
+./lite-client/lite-client -C ton-lite-client-test3.config.json -D ~/ton-db-dir
 
 Basic help info can be obtained by typing "help" into the Lite Client. Type "quit" or press Ctrl-C to exit.
 
