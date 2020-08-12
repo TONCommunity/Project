@@ -54,6 +54,7 @@ TONCommunity.org from TON Blockchain old supporter. But must declare, all people
 - :rocket:[Winodws](https://ton.org/apps/wsetup.0.9.8.exe)
 - :rocket:[macOS](https://ton.org/apps/wsetup.0.9.8.dmg)
 - :rocket:[Android](https://ton.org/apps/wallet.apk)
+- :rocket:[Android(Google Play)](https://play.google.com/store/apps/details?id=org.tginfo.telegram.messenger.wallet)
 
 2,Change the Waller server config: choice Testnetwork and Config source - Url, copy URL:
 ```
