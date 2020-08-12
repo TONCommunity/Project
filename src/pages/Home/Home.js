@@ -105,7 +105,7 @@ const HomeComponent = ({ className }) => {
             <Row justify="space-between" gutter={[16, 16]}>
               <Col xs={24} lg={8}>
                 <Card title={<a target="_blank" rel="noopener noreferrer" href="https://wallet.ton.org/">Blockchain Wallet</a>} className='resources-card'>
-                  Test Gram Wallet Set up your own Gram Wallet on the TON Testnet. Available for <a target="_blank" rel="noopener noreferrer" href="https://ton.org/apps/wsetup.0.9.8.dmg">macOS</a>, <a target="_blank" rel="noopener noreferrer" href="https://ton.org/apps/wsetup.0.9.8.tar.xz">Linux</a>,<a target="_blank" rel="noopener noreferrer" href="https://ton.org/apps/wsetup.0.9.8.exe">Windows</a>, <a target="_blank" rel="noopener noreferrer" href="https://ton.org/apps/wallet.apk">Android</a>, and <a target="_blank" rel="noopener noreferrer" href="https://testflight.apple.com/join/sYg7ibyW">iOS here</a>.
+                  Test Gram Wallet Set up your own Gram Wallet on the TON Testnet. Available for <a target="_blank" rel="noopener noreferrer" href="https://ton.org/apps/wsetup.0.9.8.dmg">macOS</a>, <a target="_blank" rel="noopener noreferrer" href="https://ton.org/apps/wsetup.0.9.8.tar.xz">Linux</a>,<a target="_blank" rel="noopener noreferrer" href="https://ton.org/apps/wsetup.0.9.8.exe">Windows</a>, <a target="_blank" rel="noopener noreferrer" href="https://ton.org/apps/wallet.apk">Android(APK)</a>, <a target="_blank" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=org.tginfo.telegram.messenger.wallet">Android(Google Play)</a>,  and <a target="_blank" rel="noopener noreferrer" href="https://testflight.apple.com/join/sYg7ibyW">iOS here</a>.
                 </Card>
               </Col>
               <Col xs={24} lg={8}>
