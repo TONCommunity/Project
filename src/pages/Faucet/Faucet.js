@@ -55,11 +55,11 @@ const FaucetComponent = ({ className }) => {
             </div>
             <Paragraph className="details">
               Make sure your config is correct. Each address is allowed to enter
-              3 times a day, each address can receive up to 300 test TONcoins
+              3 times a day, each address can receive up to 300 test ntwork coins
             </Paragraph>
             <Paragraph className="details">
               If you want running a validator, you need at least 10000+ test
-              TONcoins.{" "}
+              network coins.{" "}
               <a
                 target="_blank"
                 rel="noopener noreferrer"
