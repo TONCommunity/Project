@@ -117,10 +117,9 @@ We support [TON-base's blockchain](https://toncommunity.org/projects.html)  proj
 6% - Investor reserved
 
 ## ✈ <a id="marketing"></a>Marketing
-- 🎈Mainnet Airdrop Round A(Available)
+- 🎈[About Airdrop Round A](https://t.me/toncommunity_bot)
 
 ## 🔈 <a id="ask"></a>Ask Questions, Find Answers, Get in Touch
-- 🎈About Airdrop Round A
 - 🚀[Telegram Channel](https://t.me/ton_news)
 - 🌕[Chat Group(EN)](https://t.me/ton_en)
 - 🌕[Chat Group(CN)](https://t.me/ton_cn)
