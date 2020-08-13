@@ -104,7 +104,7 @@ Check subdirectory and choice your way.
 - [Smart Contracts Guidelines](https://github.com/TONCommunity/Project/blob/master/public/smc-guidelines.txt) - and best practices related to implementation of TON Blockchain smart contracts
 
 ## 🔨 <a id="roadmap"></a>Roadmap
-Vote.
+[Roadmap - TONCommunity.org](https://drive.google.com/file/d/1OQFa27yPbAnIZwrY793F-32fDuV6kjCJ/view?usp=sharing)
 
 ## 🌐 <a id="testnet"></a>TONCommunity.org Testnet3
 This test network is the 2th version net, but we call it testnet3 for tinder. You can check www.toncommunity.org or check http://t.me/gram50bot test ton magtic tech and get some free mainnet coins now.
