@@ -18,7 +18,8 @@ const HomeComponent = ({ className }) => {
           <img src={bannerIcon} alt="bannerIcon" className="bannerIcon" />
             <div className="title-wrapper-div">
               <p className="title">TON Community Blockchain</p>
-              <p className="title">Testnet3</p>
+              <p className="title"><a target="_blank" rel="noopener noreferrer" href="https://toncommunity.org/info.html">Proof of Defi Heart ❤️ → </a></p>
+              <a href="https://drive.google.com/file/d/1PGjS9ScYdLMCTdOJsXZpiR0a7MrMsaso/view?usp=sharing">Lite Paper</a> |  <a href="https://drive.google.com/file/d/1OQFa27yPbAnIZwrY793F-32fDuV6kjCJ/view?usp=sharing">Roadmap</a>  |  <a href="https://drive.google.com/file/d/1l-66ninBUKWzeRWeqHkkbk344GTErcIx/view?usp=sharing">Token Distribution</a>
             </div>
           </div>
         </Row>
@@ -26,21 +27,25 @@ const HomeComponent = ({ className }) => {
           <Row className="content" id="news">
             <Title>News</Title>
             <Typography>
+              <Text>18.09.2020</Text> <Text strong> Community</Text>
+              <Paragraph>
+                we add Defi project in Roadmap and release ERC20 Token(<a target="_blank" rel="noopener noreferrer" href="https://telegra.ph/TONCommunityorg-add-Defi-project-in-Roadmap-and-release-ERC20-Token-frist-08-17">more story</a>). And Donate the activities of the Ethereum Foundation(<a target="_blank" rel="noopener noreferrer" href="https://toncommunity.org/info.html">more read</a>).
+              </Paragraph>            
               <Text>28.07.2020</Text> <Text strong> Community</Text>
               <Paragraph>
                 TONCommunity.org Testnet Launch and Welcome TON Blockchain Testnet2 Validator Join.Check <a target="_blank" rel="noopener noreferrer" href="https://github.com/TONCommunity/Project">here</a>.
               </Paragraph>
-              <Text>06.07.2020</Text>
-              <Paragraph>
-                We are discontinuing our support of the test network of the TON Blockchain. Our remaining validators will be switched off not later than 1.08.2020. Please save all relevant data and terminate your testing process. If you need to continue testing after this date, you can install your own testnet validators as explained <a href="FullNode-HOWTO.txt">here</a>, <a href="Validator-HOWTO.txt">here</a> and <a href="TestGrams-HOWTO.txt">here</a>.
-              </Paragraph>
-              <Text>29.05.2020</Text> <Text strong> Community</Text>
-              <Paragraph>
-                TON Community <a href="FullNode-HOWTO.txt">announcements restart TON</a>.
-              </Paragraph>
               {
                 isMore ?
                 <>
+                 <Text>06.07.2020</Text>
+                 <Paragraph>
+                 We are discontinuing our support of the test network of the TON Blockchain. Our remaining validators will be switched off not later than 1.08.2020. Please save all relevant data and terminate your testing process. If you need to continue testing after this date, you can install your own testnet validators as explained <a href="FullNode-HOWTO.txt">here</a>, <a href="Validator-HOWTO.txt">here</a> and <a href="TestGrams-HOWTO.txt">here</a>.
+                  </Paragraph>
+                 <Text>29.05.2020</Text> <Text strong> Community</Text>
+                 <Paragraph>
+                 TON Community <a href="FullNode-HOWTO.txt">announcements restart TON</a>.
+                 </Paragraph>
                  <Text>24.05.2020</Text>
                  <Paragraph>
                     The original TON development team is discontinuing its active involvement with the TON project due to reasons <a target="_blank" rel="noopener noreferrer" href="https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12">explained here</a>. The efforts of the team have been redirected to other projects. Some of the internal development branches that have been in active development and testing may get integrated into the main branch. Some minor bugfixes and Github issue answers may occasionally appear if any of the members of the original team have the spare time and inclination to contribute to the community's efforts. The principal development of the TON code is transferred to the free source community.
