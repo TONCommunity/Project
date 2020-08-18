@@ -18,7 +18,7 @@ const HomeComponent = ({ className }) => {
           <img src={bannerIcon} alt="bannerIcon" className="bannerIcon" />
             <div className="title-wrapper-div">
               <p className="title">TON Community Blockchain</p>
-              <p className="title"><a target="_blank" rel="noopener noreferrer" href="https://toncommunity.org/info.html">Proof of Defi Heart ❤️ → </a></p>
+              <p className="title"><a target="_blank" rel="noopener noreferrer" href="https://toncommunity.org/info.html">Proof of Heart ❤️ → </a></p>
               <a href="https://drive.google.com/file/d/1PGjS9ScYdLMCTdOJsXZpiR0a7MrMsaso/view?usp=sharing">Lite Paper</a> |  <a href="https://drive.google.com/file/d/1OQFa27yPbAnIZwrY793F-32fDuV6kjCJ/view?usp=sharing">Roadmap</a>  |  <a href="https://drive.google.com/file/d/1l-66ninBUKWzeRWeqHkkbk344GTErcIx/view?usp=sharing">Token Distribution</a>
             </div>
           </div>
@@ -27,14 +27,14 @@ const HomeComponent = ({ className }) => {
           <Row className="content" id="news">
             <Title>News</Title>
             <Typography>
-              <Text>18.09.2020</Text> <Text strong> Community</Text>
-              <Paragraph>
-                we add Defi project in Roadmap and release ERC20 Token(<a target="_blank" rel="noopener noreferrer" href="https://telegra.ph/TONCommunityorg-add-Defi-project-in-Roadmap-and-release-ERC20-Token-frist-08-17">more story</a>). And Donate the activities of the Ethereum Foundation(<a target="_blank" rel="noopener noreferrer" href="https://toncommunity.org/info.html">more read</a>).
-              </Paragraph>            
-              <Text>28.07.2020</Text> <Text strong> Community</Text>
-              <Paragraph>
-                TONCommunity.org Testnet Launch and Welcome TON Blockchain Testnet2 Validator Join.Check <a target="_blank" rel="noopener noreferrer" href="https://github.com/TONCommunity/Project">here</a>.
-              </Paragraph>
+                 <Text>18.09.2020</Text> <Text strong> Community</Text>
+                 <Paragraph>
+                 we add Defi project in Roadmap and release ERC20 Token(<a target="_blank" rel="noopener noreferrer" href="https://telegra.ph/TONCommunityorg-add-Defi-project-in-Roadmap-and-release-ERC20-Token-frist-08-17">more story</a>). And Donate the activities of the Ethereum Foundation(<a target="_blank" rel="noopener noreferrer" href="https://toncommunity.org/info.html">more read</a>).
+                 </Paragraph>            
+                 <Text>28.07.2020</Text> <Text strong> Community</Text>
+                 <Paragraph>
+                 TONCommunity.org Testnet Launch and Welcome TON Blockchain Testnet2 Validator Join.Check <a target="_blank" rel="noopener noreferrer" href="https://github.com/TONCommunity/Project">here</a>.
+                 </Paragraph>
               {
                 isMore ?
                 <>
