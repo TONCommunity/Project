@@ -45,41 +45,37 @@ const HomeComponent = ({ className }) => {
           <Row className="content" id="news">
             <Title>News</Title>
             <Typography>
-              <Text>18.09.2020</Text> <Text strong> Community</Text>
+              <Text>22.08.2020</Text> <Text strong> Community</Text>
               <Paragraph>
-                we add Defi project in Roadmap and release ERC20 Token(
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://telegra.ph/TONCommunityorg-add-Defi-project-in-Roadmap-and-release-ERC20-Token-frist-08-17"
-                >
-                  more story
-                </a>
-                ). And Donate the activities of the Ethereum Foundation(
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://toncommunity.org/info.html"
-                >
-                  more read
-                </a>
-                ).
+                Auction --- Proof of Heart Closed. The auction received 24.2778 ETH, which will be donated to the ETH Foundation. Thank you ETH for bringing Defi prosperity.
               </Paragraph>
-              <Text>28.07.2020</Text> <Text strong> Community</Text>
+              <Text>18.08.2020</Text> <Text strong> Community</Text>
               <Paragraph>
-                TONCommunity.org Testnet Launch and Welcome TON Blockchain
-                Testnet2 Validator Join.Check{" "}
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://github.com/TONCommunity/Project"
-                >
-                  here
-                </a>
-                .
+                1,TONCommunity.org project add Defi in Roadmap.
+                2,Auction donation activity: < a href="https://toncommunity.org/info.html"> Proof of Heart</ a>
+              </Paragraph>
+              <Text>17.08.2020</Text> <Text strong> Community</Text>
+              <Paragraph>
+                1,Release TONCommunity.org project < a href="https://drive.google.com/file/d/1PGjS9ScYdLMCTdOJsXZpiR0a7MrMsaso/view?usp=sharing"> Lite Paper</ a>
+                2,Release < a href="https://drive.google.com/file/d/1OQFa27yPbAnIZwrY793F-32fDuV6kjCJ/view?usp=sharing"> Roadmap</ a>
+                3,Release < a href="https://drive.google.com/file/d/1l-66ninBUKWzeRWeqHkkbk344GTErcIx/view?usp=sharing"> Token Distribution</ a>
+                4,Release ERC20-TON, Token Contract: 0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a
               </Paragraph>
               {isMore ? (
                 <>
+                  <Text>28.07.2020</Text> <Text strong> Community</Text>
+                  <Paragraph>
+                     TONCommunity.org Testnet Launch and Welcome TON Blockchain
+                     Testnet2 Validator Join.Check{" "}
+                     <a
+                     target="_blank"
+                      rel="noopener noreferrer"
+                     href="https://github.com/TONCommunity/Project"
+                      >
+                      here
+                     </a>
+                     .
+                  </Paragraph>
                   <Text>06.07.2020</Text>
                   <Paragraph>
                     We are discontinuing our support of the test network of the
