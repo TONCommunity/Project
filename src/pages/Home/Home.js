@@ -295,10 +295,10 @@ const HomeComponent = ({ className }) => {
               </Col>
               <Col xs={24} lg={8}>
                 <Card
-                  title={<a href="/faucet">Faucet</a>}
+                  title={<a href="https://github.com/TONCommunity/ton-TIPs">Roadmap</a>}
                   className="resources-card"
                 >
-                  TONCommunity.org Testnet3 Faucet
+                  the TONCommunity.org project Roadmap
                 </Card>
               </Col>
             </Row>
