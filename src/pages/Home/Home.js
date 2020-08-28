@@ -45,6 +45,10 @@ const HomeComponent = ({ className }) => {
           <Row className="content" id="news">
             <Title>News</Title>
             <Typography>
+              <Text>28.08.2020</Text> <Text strong> Community</Text>
+              <Paragraph>
+                Post: < a href="https://telegra.ph/TON-Community-Public-Doation-Plan-08-28"> TON Community Public Doation Plan </ a> -> How to Join? Follow our < a href="https://t.me/ton_news"> Channel </ a> and < a href="https://t.me/ton_en"> Group </ a>.
+              </Paragraph>
               <Text>22.08.2020</Text> <Text strong> Community</Text>
               <Paragraph>
                 Auction --- Proof of Heart Closed. The auction received 24.2778 ETH, which will be donated to the ETH Foundation. Thank you ETH for bringing Defi prosperity.
