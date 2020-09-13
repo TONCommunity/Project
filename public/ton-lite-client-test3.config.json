@@ -7,6 +7,38 @@
                 "key": "qaHEsnyxUqld4t1ez94ECSvVdbZ8FBnXcOd2OJoAn9U="
             },
             "port": "53762"
+        },
+        {
+            "ip":57771459,
+            "id": {
+                "@type": "pub.ed25519",
+                "key": "LH/JgYgY4QybZkeJlT8VtFpv4F782y2XP/8k3ujaWB4="
+            },
+            "port": "53762"
+        },
+        {
+            "ip":312892958,
+            "id": {
+                "@type": "pub.ed25519",
+                "key": "wqZwmmK+pwEoQpOp0ZfTjJ+/4269pj23geRZRJ9qAZE="
+            },
+            "port": "53762"
+        },
+        {
+            "ip":313663840,
+            "id": {
+                "@type": "pub.ed25519",
+                "key": "nDgigyZEs0W7P1FDYWCuVSjocpKRGNH/cGmTxW6wHsU="
+            },
+            "port": "53762"
+        },
+        {
+            "ip":313615677,
+            "id": {
+                "@type": "pub.ed25519",
+                "key": "9eW47vvPbBlS4jjM0YkxPhC6PnBpw5ksrevAjYe+khc="
+            },
+            "port": "53762"
         }
     ],
     "validator": {
