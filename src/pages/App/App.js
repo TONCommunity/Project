@@ -76,7 +76,7 @@ const App = styled(({ className }) => {
                           }}
                           type="primary"
                         >
-                          Join & Get 100+ coins for free
+                          Join & Get 5+ coins for free
                         </Button>
                       </div>
                     ) : (
@@ -145,7 +145,7 @@ const App = styled(({ className }) => {
                             type="primary"
                             style={{ fontSize: "12px" }}
                           >
-                            Join & Get 100+ coins for free
+                            Join & Get 5+ coins for free
                           </Button>
                         </Drawer>
                       </div>
