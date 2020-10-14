@@ -1,42 +1,42 @@
 {
     "liteservers": [
         {
+            "ip":795459766,
+            "id": {
+                "@type": "pub.ed25519",
+                "key": "YST0XuaDWOoYqROTPJ/u1d7fpkvtkBcvJX1/QDL+C/I="
+            },
+            "port": "53762"
+        },
+        {
             "ip":1992173407,
             "id": {
                 "@type": "pub.ed25519",
-                "key": "qaHEsnyxUqld4t1ez94ECSvVdbZ8FBnXcOd2OJoAn9U="
+                "key": "0vdsuWEUCcdNOQq8e9mOi2fJcBK6aahoQmb8S9tLdUg="
             },
             "port": "53762"
         },
         {
-            "ip":57771459,
+            "ip":795367252,
             "id": {
                 "@type": "pub.ed25519",
-                "key": "LH/JgYgY4QybZkeJlT8VtFpv4F782y2XP/8k3ujaWB4="
+                "key": "eBx3riKle9P7Z0YOGjsfKUJgBfWONZkDqicclPpDtcM="
             },
             "port": "53762"
         },
         {
-            "ip":312892958,
+            "ip":795407168,
             "id": {
                 "@type": "pub.ed25519",
-                "key": "wqZwmmK+pwEoQpOp0ZfTjJ+/4269pj23geRZRJ9qAZE="
+                "key": "j9vYsaalAES8As2stJxHBcUtF7X5VtoFT0aZ0PhG6GQ="
             },
             "port": "53762"
         },
         {
-            "ip":313663840,
+            "ip":795445272,
             "id": {
                 "@type": "pub.ed25519",
-                "key": "nDgigyZEs0W7P1FDYWCuVSjocpKRGNH/cGmTxW6wHsU="
-            },
-            "port": "53762"
-        },
-        {
-            "ip":313615677,
-            "id": {
-                "@type": "pub.ed25519",
-                "key": "9eW47vvPbBlS4jjM0YkxPhC6PnBpw5ksrevAjYe+khc="
+                "key": "dNhwt4I506Ho6RcRA540KLbyeEzgkFvAxU+nJJz2R5Q="
             },
             "port": "53762"
         }
@@ -47,8 +47,8 @@
             "workchain": -1,
             "shard": -9223372036854775808,
             "seqno": 0,
-            "root_hash": "sKOoLuTF+1HU/eJ4zORsR9NehOrpInbn4j5XdpXwP5M=",
-            "file_hash": "9P0TuVjDyDA8od6t5oJFGNx0fl7aaaRsVeVt1Nu3cc4="
+            "root_hash": "SCZOmDNSd4PYkCEAIWpcLqVlvAWbxdroK64r8yWcNkA=",
+            "file_hash": "BbpGCLDKyN3FQw9iFXP6ZDiwvFSQMizSB8Zj3fu/HXU="
         }
     }
 }
