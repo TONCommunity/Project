@@ -45,28 +45,44 @@ const HomeComponent = ({ className }) => {
           <Row className="content" id="news">
             <Title>News</Title>
             <Typography>
-              <Text>28.08.2020</Text> <Text strong> Community</Text>
+              <Text>14.10.2020</Text> <Text strong> Community</Text>
               <Paragraph>
-                Post: < a href="https://telegra.ph/TON-Community-Public-Doation-Plan-08-28"> TON Community Public Doation Plan </ a> -> How to Join? Follow our < a href="https://t.me/ton_news"> Channel </ a> and < a href="https://t.me/ton_en"> Group </ a>.
+                1,Testnet4 Launch;2,New proposal: Modify Main network Supply,< a href="https://snapshot.page/#/ton/proposal/QmXhuKWbkfVyu8PazQz7pA349KFTJUanP7rntT7VoJVrDT"> Here</ a>
               </Paragraph>
-              <Text>22.08.2020</Text> <Text strong> Community</Text>
+              <Text>24.09.2020</Text> <Text strong> Community</Text>
               <Paragraph>
-                Auction --- Proof of Heart Closed. The auction received 24.2778 ETH, which will be donated to the ETH Foundation. Thank you ETH for bringing Defi prosperity.
+                < a href="https://telegra.ph/A-short-history-of-TONCommunityorg-09-24"> A short history of TONCommunity.org</ a>
               </Paragraph>
-              <Text>18.08.2020</Text> <Text strong> Community</Text>
+              <Text>10.09.2020</Text> <Text strong> Community</Text>
               <Paragraph>
-                1,TONCommunity.org project add Defi in Roadmap.
-                2,Auction donation activity: < a href="https://toncommunity.org/info.html"> Proof of Heart</ a>
+                Update the TONCommunity.org Project data:1,Test network address:14870; 2,Test network translations:61251; 3,iOS APP Download:1051; 4,Community Channel:32647; 5,Community Group Member:9897
               </Paragraph>
-              <Text>17.08.2020</Text> <Text strong> Community</Text>
+              <Text>08.09.2020</Text> <Text strong> Community</Text>
               <Paragraph>
-                1,Release TONCommunity.org project < a href="https://drive.google.com/file/d/1PGjS9ScYdLMCTdOJsXZpiR0a7MrMsaso/view?usp=sharing"> Lite Paper</ a>
-                2,Release < a href="https://drive.google.com/file/d/1OQFa27yPbAnIZwrY793F-32fDuV6kjCJ/view?usp=sharing"> Roadmap</ a>
-                3,Release < a href="https://drive.google.com/file/d/1l-66ninBUKWzeRWeqHkkbk344GTErcIx/view?usp=sharing"> Token Distribution</ a>
-                4,Release ERC20-TON, Token Contract: 0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a
+                < a href="https://t.me/ton_news/34"> Creative Contest Closed and Winner List！</ a>
               </Paragraph>
               {isMore ? (
                 <>
+                  <Text>28.08.2020</Text> <Text strong> Community</Text>
+                  <Paragraph>
+                    Post: < a href="https://telegra.ph/TON-Community-Public-Doation-Plan-08-28"> TON Community Public Doation Plan </ a> -> How to Join? Follow our < a href="https://t.me/ton_news"> Channel </ a> and < a href="https://t.me/ton_en"> Group </ a>.
+                  </Paragraph>
+                  <Text>22.08.2020</Text> <Text strong> Community</Text>
+                  <Paragraph>
+                    Auction --- Proof of Heart Closed. The auction received 24.2778 ETH, which will be donated to the ETH Foundation. Thank you ETH for bringing Defi prosperity.
+                  </Paragraph>
+                  <Text>18.08.2020</Text> <Text strong> Community</Text>
+                  <Paragraph>
+                    1,TONCommunity.org project add Defi in Roadmap.
+                    2,Auction donation activity: < a href="https://toncommunity.org/info.html"> Proof of Heart</ a>
+                  </Paragraph>
+                  <Text>17.08.2020</Text> <Text strong> Community</Text>
+                  <Paragraph>
+                    1,Release TONCommunity.org project < a href="https://drive.google.com/file/d/1PGjS9ScYdLMCTdOJsXZpiR0a7MrMsaso/view?usp=sharing"> Lite Paper</ a>
+                    2,Release < a href="https://drive.google.com/file/d/1OQFa27yPbAnIZwrY793F-32fDuV6kjCJ/view?usp=sharing"> Roadmap</ a>
+                    3,Release < a href="https://drive.google.com/file/d/1l-66ninBUKWzeRWeqHkkbk344GTErcIx/view?usp=sharing"> Token Distribution</ a>
+                    4,Release ERC20-TON, Token Contract: 0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a
+                  </Paragraph>
                   <Text>28.07.2020</Text> <Text strong> Community</Text>
                   <Paragraph>
                      TONCommunity.org Testnet Launch and Welcome TON Blockchain
