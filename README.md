@@ -91,7 +91,7 @@ Configuration
 - [Testnet3 Configuration](https://github.com/TONCommunity/Project/blob/master/public/toncommunity-testnet3-config.json)
 
 Check subdirectory and choice your way.
-- [Lite-client howto](https://github.com/TONCommunity/Project/blob/master/public/HOWTO.txt)
+- [Lite-client howto](https://github.com/TONCommunity/Project/blob/master/public/README.txt)
 - [Fullnode howto](https://github.com/TONCommunity/Project/blob/master/public/FullNode-HOWTO.txt)
 - [Validator howto](https://github.com/TONCommunity/Project/blob/master/public/Validator-HOWTO.txt) 
 
