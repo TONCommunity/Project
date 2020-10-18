@@ -114,7 +114,7 @@ About TON-based project and a list of projects on TON submitted for the Telegram
 We support [TON-base's blockchain](https://toncommunity.org/projects.html)  project. 
 
 ## :gem: <a id="token"></a>Token Distirution
-6% - Investor reserved
+
 
 ## ✈ <a id="marketing"></a>Marketing
 - 🎈[About Airdrop Round A](https://t.me/toncommunity_bot)
