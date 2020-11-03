@@ -47,7 +47,7 @@ const HomeComponent = ({ className }) => {
             <Typography>
               <Text>03.11.2020</Text> <Text strong> Community</Text>
               <Paragraph>
-                Public test: rain / tip / giveaway $TON in Telegram Messenger; Time: 04.11.2020~06.11.2020 UTC+8 22:00; Place: telegram group < a href="https://t.me/ton_en"> @ton_en</ a>, < a href="https://t.me/ton_en"> @ton_cn</ a>.
+                Public test: rain / tip / giveaway $TON in Telegram Messenger; Time: 04.11.2020~06.11.2020 UTC+8 22:00; Place: telegram group < a href="https://t.me/ton_en"> @ton_en</ a>, < a href="https://t.me/ton_cn"> @ton_cn</ a>.
               </Paragraph>    
               <Text>14.10.2020</Text> <Text strong> Community</Text>
               <Paragraph>
