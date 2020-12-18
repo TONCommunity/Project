@@ -45,6 +45,14 @@ const HomeComponent = ({ className }) => {
           <Row className="content" id="news">
             <Title>News</Title>
             <Typography>
+              <Text>17.12.2020</Text> <Text strong> Community</Text>
+              <Paragraph>
+                TONCommunity.org new twitter account launch: < a href="https://twitter.com/TONCommunityOrg"> @TONCommunityOrg</ a>.
+              </Paragraph>  
+              <Text>03.12.2020</Text> <Text strong> Community</Text>
+              <Paragraph>
+                < a href="https://telegra.ph/TON-Community-Update-12-08"> TONCommunity.org Project Update</ a>.
+              </Paragraph>   
               <Text>03.11.2020</Text> <Text strong> Community</Text>
               <Paragraph>
                 Public test: rain / tip / giveaway $TON in Telegram Messenger; Time: 04.11.2020~06.11.2020 UTC+8 22:00; Place: telegram group < a href="https://t.me/ton_en"> @ton_en</ a>, < a href="https://t.me/ton_cn"> @ton_cn</ a>.
