@@ -679,7 +679,7 @@ const HomeComponent = ({ className }) => {
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://twitter.com/TONCommunity"
+                href="https://twitter.com/TONCommunityOrg"
               >
                 @TONCommunity
               </a>
