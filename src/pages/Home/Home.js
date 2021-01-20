@@ -681,7 +681,7 @@ const HomeComponent = ({ className }) => {
                 rel="noopener noreferrer"
                 href="https://twitter.com/TONCommunityOrg"
               >
-                @TONCommunity
+                @TONCommunityOrg
               </a>
             </div>
           </Col>
