@@ -118,6 +118,7 @@ We support [TON-base's blockchain](https://toncommunity.org/projects.html)  proj
 
 ## ✈ <a id="marketing"></a>Marketing
 - 🎈[About Airdrop Round A](https://t.me/toncommunity_bot)
+- 🎈[TON 中文社区 & Bananatok(原币用APP)]2021新春活动(https://t.me/TON_CN/16656)
 
 ## 🔈 <a id="ask"></a>Ask Questions, Find Answers, Get in Touch
 - 🚀[Telegram Channel](https://t.me/ton_news)
