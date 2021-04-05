@@ -70,14 +70,6 @@ const App = styled(({ className }) => {
                             title="Documentation"
                           />
                         </Anchor>
-                        <Button
-                          onClick={() => {
-                            window.open("http://t.me/toncommunity_bot");
-                          }}
-                          type="primary"
-                        >
-                          Join & Get 5+ coins for free
-                        </Button>
                       </div>
                     ) : (
                       <div className="wrapper-mobile">
