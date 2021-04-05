@@ -28,7 +28,7 @@ const HomeComponent = ({ className }) => {
                 </a>
               </p>
               <p >
-                - base Telegram Blockchain 
+                base Telegram Blockchain 
               </p>
             </div>
           </div>
