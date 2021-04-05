@@ -28,7 +28,7 @@ const HomeComponent = ({ className }) => {
                 </a>
               </p>
               <p >
-                base Telegram Blockchain 
+                Pre-main network - base Telegram Blockchain 
               </p>
             </div>
           </div>
@@ -350,7 +350,7 @@ const HomeComponent = ({ className }) => {
                 >
                   A GitHub repository with the complete source of the test
                   version of TON Blockchain Software, including Light Client,
-                  Full Node and Validator for TON Blockchain.
+                  Full Node and Validator for TON Community Blockchain.
                 </Card>
               </Col>
               <Col xs={24} lg={8}>
@@ -372,13 +372,13 @@ const HomeComponent = ({ className }) => {
               <Col xs={24} lg={8}>
                 <Card
                   title={
-                    <a target="_blank" href="ton-lite-client-test3.config.json">
-                      Testnet Configuration
+                    <a target="_blank" href="toncommunity-lite-client.config.json">
+                      Pre-main network Configuration
                     </a>
                   }
                   className="resources-card"
                 >
-                  Configuration file for the TONCommunity.org Testnet3 Lite
+                  Configuration file for the TONCommunity.org Pre-main network Lite
                   Client
                 </Card>
               </Col>
@@ -393,7 +393,7 @@ const HomeComponent = ({ className }) => {
                   }
                   className="resources-card"
                 >
-                  Global configuration for the TONCommunity.org Testnet3,
+                  Global configuration for the TONCommunity.org Pre-main network,
                   required by Full Nodes
                 </Card>
               </Col>
@@ -416,7 +416,7 @@ const HomeComponent = ({ className }) => {
                     toncommunity-global.config.json
                   </a>{" "}
                   and{" "}
-                  <a target="_blank" href="ton-lite-client-test3.config.json">
+                  <a target="_blank" href="toncommunity-lite-client.config.json">
                     toncommunity-lite-client.config.json
                   </a>
                   , useful for Ton Sites and other TON Services
