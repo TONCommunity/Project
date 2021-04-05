@@ -43,7 +43,7 @@ const HomeComponent = ({ className }) => {
               </Paragraph> 
               <Text>11.02.2021</Text> <Text strong> Community</Text>
               <Paragraph>
-                Happy Chinese New Year. New Twitter Account < a href="https://twitter.com/TONCommunityOrg"> @TONCommunityOrg </ a> launch.
+                Happy Chinese New Year.
               </Paragraph> 
               <Text>17.12.2020</Text> <Text strong> Community</Text>
               <Paragraph>
