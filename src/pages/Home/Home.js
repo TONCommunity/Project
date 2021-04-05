@@ -22,22 +22,14 @@ const HomeComponent = ({ className }) => {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://toncommunity.org/info.html"
+                  href="https://t.me/ton_news"
                 >
-                  Proof of Heart ❤️ →{" "}
+                  Our Channel ❤️ →{" "}
                 </a>
               </p>
-              <a href="https://drive.google.com/file/d/1PGjS9ScYdLMCTdOJsXZpiR0a7MrMsaso/view?usp=sharing">
-                Lite Paper
-              </a>{" "}
-              |{" "}
-              <a href="https://drive.google.com/file/d/1OQFa27yPbAnIZwrY793F-32fDuV6kjCJ/view?usp=sharing">
-                Roadmap
-              </a>{" "}
-              |{" "}
-              <a href="https://drive.google.com/file/d/1l-66ninBUKWzeRWeqHkkbk344GTErcIx/view?usp=sharing">
-                Token Distribution
-              </a>
+              <p >
+                - base Telegram Blockchain 
+              </p>
             </div>
           </div>
         </Row>
