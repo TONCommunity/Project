@@ -1,22 +1,62 @@
 {
-    "liteservers": [
+    "liteservers":
+    [
         {
-            "ip":1992173407,
-            "id": {
+            "ip": 1992173407,
+            "id":
+            {
                 "@type": "pub.ed25519",
-                "key": "qaHEsnyxUqld4t1ez94ECSvVdbZ8FBnXcOd2OJoAn9U="
+                "key": "TiDUVLwIRoOTO6pKcSuo0rNsdWNM3kFl1/pLhwF+l4I="
+            },
+            "port": "53762"
+        },
+        {
+            "ip": 795459766,
+            "id":
+            {
+                "@type": "pub.ed25519",
+                "key": "8UGf+hpWQB+vzkjmDg0AM7hsck4ook6SFC4PB6Xzxzg="
+            },
+            "port": "53762"
+        },
+        {
+            "ip": 795367252,
+            "id":
+            {
+                "@type": "pub.ed25519",
+                "key": "juafEb7Jqrae7vl2Vjoi6ne6NbiEpjcY3VJxfMh+V6o="
+            },
+            "port": "53762"
+        },
+        {
+            "ip": 795407168,
+            "id":
+            {
+                "@type": "pub.ed25519",
+                "key": "4cNzVycXSl3vz603V0xKU6olSU/2Ls/ydTrZ3xLS/S0="
+            },
+            "port": "53762"
+        },
+        {
+            "ip": 795445272,
+            "id":
+            {
+                "@type": "pub.ed25519",
+                "key": "+JmuqzMFgV0Q3Eqe++B9QMTf3kc8wZOG1f6gTo1mGvo="
             },
             "port": "53762"
         }
     ],
-    "validator": {
+    "validator":
+    {
         "@type": "validator.config.global",
-        "zero_state": {
+        "zero_state":
+        {
             "workchain": -1,
             "shard": -9223372036854775808,
             "seqno": 0,
-            "root_hash": "sKOoLuTF+1HU/eJ4zORsR9NehOrpInbn4j5XdpXwP5M=",
-            "file_hash": "9P0TuVjDyDA8od6t5oJFGNx0fl7aaaRsVeVt1Nu3cc4="
+            "root_hash": "lxLzD15VznheLWS6zr7FrwEqvG0VB2HJ+IYxoPUKW0I=",
+            "file_hash": "IJ26WnuFq+nc6yRbkNfNBN7N49ZAiOWzOloz2yV5Mys="
         }
     }
 }
