@@ -37,7 +37,7 @@ const HomeComponent = ({ className }) => {
           <Row className="content" id="news">
             <Title>News</Title>
             <Typography>
-              <Text>11.02.2021</Text> <Text strong> Community</Text>
+              <Text>05.04.2021</Text> <Text strong> Community</Text>
               <Paragraph>
                 Pre-main network launch. Pre-main< a href="https://t.me/gram50bot"> Explore </ a>.launch
               </Paragraph> 
