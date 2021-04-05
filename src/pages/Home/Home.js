@@ -24,7 +24,7 @@ const HomeComponent = ({ className }) => {
                   rel="noopener noreferrer"
                   href="https://t.me/ton_news"
                 >
-                  Our Channel ❤️ →{" "}
+                 = Our Channel ❤️ →{" "}
                 </a>
               </p>
               <p >
@@ -37,6 +37,14 @@ const HomeComponent = ({ className }) => {
           <Row className="content" id="news">
             <Title>News</Title>
             <Typography>
+              <Text>11.02.2021</Text> <Text strong> Community</Text>
+              <Paragraph>
+                Pre-main network launch. Pre-main< a href="https://t.me/gram50bot"> Explore </ a>.launch
+              </Paragraph> 
+              <Text>11.02.2021</Text> <Text strong> Community</Text>
+              <Paragraph>
+                Happy Chinese New Year. New Twitter Account < a href="https://twitter.com/TONCommunityOrg"> @TONCommunityOrg </ a> launch.
+              </Paragraph> 
               <Text>17.12.2020</Text> <Text strong> Community</Text>
               <Paragraph>
                 TONCommunity.org new twitter account launch: < a href="https://twitter.com/TONCommunityOrg"> @TONCommunityOrg</ a>.
@@ -57,16 +65,16 @@ const HomeComponent = ({ className }) => {
               <Paragraph>
                 < a href="https://telegra.ph/A-short-history-of-TONCommunityorg-09-24"> A short history of TONCommunity.org</ a>
               </Paragraph>
-              <Text>10.09.2020</Text> <Text strong> Community</Text>
-              <Paragraph>
-                Update the TONCommunity.org Project data:1,Test network address:14870; 2,Test network translations:61251; 3,iOS APP Download:1051; 4,Community Channel:32647; 5,Community Group Member:9897
-              </Paragraph>
-              <Text>08.09.2020</Text> <Text strong> Community</Text>
-              <Paragraph>
-                < a href="https://t.me/ton_news/34"> Creative Contest Closed and Winner List！</ a>
-              </Paragraph>
               {isMore ? (
                 <>
+                  <Text>10.09.2020</Text> <Text strong> Community</Text>
+                  <Paragraph>
+                    Update the TONCommunity.org Project data:1,Test network address:14870; 2,Test network translations:61251; 3,iOS APP Download:1051; 4,Community Channel:32647; 5,Community Group Member:9897
+                  </Paragraph>
+                  <Text>08.09.2020</Text> <Text strong> Community</Text>
+                  <Paragraph>
+                    < a href="https://t.me/ton_news/34"> Creative Contest Closed and Winner List！</ a>
+                  </Paragraph>
                   <Text>28.08.2020</Text> <Text strong> Community</Text>
                   <Paragraph>
                     Post: < a href="https://telegra.ph/TON-Community-Public-Doation-Plan-08-28"> TON Community Public Doation Plan </ a> -> How to Join? Follow our < a href="https://t.me/ton_news"> Channel </ a> and < a href="https://t.me/ton_en"> Group </ a>.
