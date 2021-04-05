@@ -25,7 +25,6 @@ Contents:
 - [TON Community Worldview](#worldview)
 - [TON Blockchain（Original Project）](#original)
 - [Roadmap](#roadmap)
-- [TONCommunity.org Pre-main network](#Pre-main network)
 - [Token Distirution](#token)
 - [Ask Questions, Find Answers, Get in Touch](#ask)
 - [Marketing](#marketing)
