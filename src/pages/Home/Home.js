@@ -37,9 +37,13 @@ const HomeComponent = ({ className }) => {
           <Row className="content" id="news">
             <Title>News</Title>
             <Typography>
+              <Text>16.08.2021</Text> <Text strong> Community</Text>
+              <Paragraph>
+                $TON Holder Free Mint your NFT. < a href="https://medium.com/@TONCommunity/ton-holder-free-mint-your-nft-be9990263c74"> Check </ a> 
+              </Paragraph> 
               <Text>05.04.2021</Text> <Text strong> Community</Text>
               <Paragraph>
-                Pre-main network launch. Pre-main< a href="https://t.me/gram50bot"> Explore </ a>.launch
+                Pre-main network launch. Pre-main< a href="https://t.me/gram50bot"> Explore </ a> launch
               </Paragraph> 
               <Text>11.02.2021</Text> <Text strong> Community</Text>
               <Paragraph>
