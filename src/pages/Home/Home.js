@@ -37,6 +37,10 @@ const HomeComponent = ({ className }) => {
           <Row className="content" id="news">
             <Title>News</Title>
             <Typography>
+              <Text>08.11.2021</Text> <Text strong> Community</Text>
+              <Paragraph>
+                Blog 1< a href="https://telegra.ph/TON-Community-Blockchain-Project-Overview-11-08"> TON Community Blockchain Project Overview </ a> and Blog 2< a href="https://medium.com/@TONCommunity/tontoken-update-supply-761b85b6591"> $TONToken Update Supply </ a> 
+              </Paragraph> 
               <Text>16.08.2021</Text> <Text strong> Community</Text>
               <Paragraph>
                 $TON Holder Free Mint your NFT. < a href="https://medium.com/@TONCommunity/ton-holder-free-mint-your-nft-be9990263c74"> Check </ a> 
