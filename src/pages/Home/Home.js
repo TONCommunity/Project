@@ -75,6 +75,10 @@ const HomeComponent = ({ className }) => {
               </Paragraph>
               {isMore ? (
                 <>
+                  <Text>03.03.2023</Text> <Text strong> Community</Text>
+                  <Paragraph>
+                    TON Community Project's ticker symbol will be renamed TONC。$TON → $TONC
+                  </Paragraph>
                   <Text>10.09.2020</Text> <Text strong> Community</Text>
                   <Paragraph>
                     Update the TONCommunity.org Project data:1,Test network address:14870; 2,Test network translations:61251; 3,iOS APP Download:1051; 4,Community Channel:32647; 5,Community Group Member:9897
